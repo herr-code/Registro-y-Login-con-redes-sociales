@@ -4,11 +4,11 @@ Registro y Login con redes sociales básico usando el sistema de autenticación 
 
 -------------------
 
-!["Login Screenshot"](https://localhost/login/public/img/screenshot/login.png "Login Screenshot")
+!["Login Screenshot"](public/img/screenshot/login.png "Login Screenshot")
 
 ## Contribución 
 
-- Clonar con ```git clone https://github.com/indrijunanda/RuangAdmin.git```
+- Clonar con ```git clone https://github.com/herr-code/Registro-y-Login-con-redes-sociales.git```
 - O descarga el zip
 
 
